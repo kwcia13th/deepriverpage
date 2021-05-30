@@ -22,3 +22,38 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.metadata/
+
+# java ignore
+/deepriverpage/HELP.md
+/deepriverpage/target/
+/deepriverpage/.mvn/wrapper/maven-wrapper.jar
+/deepriverpage/**/src/main/**/target/
+/deepriverpage/**/src/test/**/target/
+
+### STS ###
+/deepriverpage/.apt_generated
+/deepriverpage/.classpath
+/deepriverpage/.factorypath
+/deepriverpage/.project
+/deepriverpage/.settings
+/deepriverpage/.springBeans
+/deepriverpage/.sts4-cache
+
+### IntelliJ IDEA ###
+/deepriverpage/.idea
+/deepriverpage/*.iws
+/deepriverpage/*.iml
+/deepriverpage/*.ipr
+
+### NetBeans ###
+/deepriverpage/nbproject/private/
+/deepriverpage/nbbuild/
+/deepriverpage/dist/
+/deepriverpage/nbdist/
+/deepriverpage/.nb-gradle/
+/deepriverpage/build/
+/deepriverpage/**/src/main/**/build/
+/deepriverpage/**/src/test/**/build/
+
+### VS Code ###
+**/.vscode/
